@@ -1,0 +1,3 @@
+cfg.py
+__pycache__
+app_uwsgi.sock
